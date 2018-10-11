@@ -1,0 +1,9 @@
+## Todo
+
+
+- [x] design a file format, probably YML, to store the data
+- [ ] find out the meaning of each columns
+- [ ] choose some asteroids of interest
+- [ ] write a complete set of code to retrieve, transform, and store in YML format
+- [ ] build jekyll site to parse and render these asteroid YML data files
+- [ ] design a mechanism to enable easy editing: easy solution by adding edit on github button.
